@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dev/blank"
+ 	 "$surfaceprop" "glass"
+ 	 "$translucent" "1"
+ 	 "%keywords" "custom"
+ 	 "$alpha" 0.3
+}

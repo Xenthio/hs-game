@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+    "$baseTexture" "concrete/concretefloor23a"
+    "$translucent" "1"
+    "$alpha" "0.60"
+    "$surfaceprop" "stone" }

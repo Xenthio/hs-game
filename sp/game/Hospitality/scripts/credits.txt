@@ -1,0 +1,65 @@
+//Adrian: This file contains the credits info for both the Intro and outro.
+"credits.txt"
+{
+
+//========================================================
+//These are the names used in the intro (trainride)
+//========================================================
+"IntroCreditsNames"
+{
+	"V"	"WeaponIcons"
+	" "	"CreditsText"
+	" "	"CreditsText"
+	"Ethan Cardwell (Xenthio)"   "CreditsText"
+}
+
+"CreditsParams"
+{
+	"logo" " "
+	
+	"fadeintime"	"2.5"
+	"fadeouttime"	"1"
+	"fadeholdtime"	"1.0"
+	"nextfadetime"	"1.0"
+	"pausebetweenwaves" "1.0"
+	"logotime" "1.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+
+//Outro Parameters
+	"scrolltime" "158"
+	"separation"  "10"
+}
+
+//========================================================
+//These are the names used in the outro (breen_01)
+//========================================================
+"OutroCreditsNames"
+{
+	" "	"CreditsOutroLogos"
+	" "	"CreditsOutroText"
+	"V"	"CreditsOutroLogos"
+	" "	"CreditsOutroText"
+	"I realised the credits might be empty"	"CreditsOutroText"
+	"so i set a challenge to edit it as little as possible"	"CreditsOutroText"
+	"that means i cannot go back to previous areas in this credits and tweak those lines"	"CreditsOutroText"
+	"That does not include names. i can go back and edit those."	"CreditsOutroText"
+	"in the meantime. here are the actual credits."	"CreditsOutroText"
+	"Ethan Cardwell (Xenthio)"   "CreditsOutroText"
+	"Thanks to Valve for there awesome engine and game"	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Did you Find the Hidden Gman Reference in the credits?"	"CreditsOutroText"
+	"v"	"CreditsOutroText"
+}
+
+
+
+}

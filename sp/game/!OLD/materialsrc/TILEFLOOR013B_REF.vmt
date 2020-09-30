@@ -1,0 +1,22 @@
+// envmaptint_fix
+"lightmappedreflective"
+{
+	"$basetexture" "kawoofish_textures/tilefloor013b_ref"
+	"$bumpmap" "kawoofish_textures/tilefloor013b_ref_norm"
+	"$surfaceprop" "Tile"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0"
+	"$refracttint" "[.5 .5 .5]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "1"
+	"$reflecttint" "[.4 .4 .4]"
+
+	"$fresnelpower" "0"
+	"$minreflectivity" "0.8"
+	"$maxreflectivity" "1.0"
+
+	"$normalmap" "kawoofish_textures/tilefloor013b_ref_norm"
+
+	"$bumpframe" "0"
+}

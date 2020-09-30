@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "props/acousticceiling002a"
+	"$surfaceprop" "paper"
+	"%keywords" "borealis"
+}

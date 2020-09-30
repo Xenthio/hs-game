@@ -1,0 +1,69 @@
+VERSION 1.0
+PLAINTEXT
+{
+this is a test to see how easy it is to create voice expressions in the source engine 
+}
+WORDS
+{
+WORD this 0.100 0.197
+{
+}
+WORD is 0.197 0.300
+{
+}
+WORD a 0.300 0.459
+{
+}
+WORD test 0.459 1.004
+{
+}
+WORD to 1.004 1.231
+{
+}
+WORD see 1.231 1.457
+{
+}
+WORD how 1.457 1.683
+{
+}
+WORD easy 1.683 1.909
+{
+}
+WORD it 1.909 2.135
+{
+}
+WORD is 2.135 2.361
+{
+}
+WORD to 2.361 2.587
+{
+}
+WORD create 2.587 2.813
+{
+}
+WORD voice 2.813 3.040
+{
+}
+WORD expressions 3.040 3.266
+{
+}
+WORD in 3.266 3.492
+{
+}
+WORD the 3.492 3.718
+{
+}
+WORD source 3.718 3.944
+{
+}
+WORD engine 3.944 4.170
+{
+}
+}
+EMPHASIS
+{
+}
+OPTIONS
+{
+voice_duck 0
+}

@@ -1,0 +1,10 @@
+"MapbaseRPC"
+{
+	// Discord application ID
+	// Change this if you want something other than "Mapbase" to show up on players' Discord clients.
+	discord_appid "634680944716152842"
+
+
+	discord_largeimage "icon"
+	discord_largeimage_text "Hospitality"
+}

@@ -1,0 +1,12 @@
+"Refract"
+{
+    "$model" 1
+    "$refractamount" "0.2"
+    "$bluramount" "1"
+    "$REFRACTTINT" "{255 255 255}"
+    "$scale" "[2 2]"
+    "$dudvmap" "dev/water_dudv"
+    "$normalmap" "dev/water_normal"    
+    "$surfaceprop" "stone"
+    "$REFRACTTINTTEXTURE" "concrete/concretefloor023a"
+    "$translucent" "0" }

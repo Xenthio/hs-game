@@ -1,0 +1,16 @@
+//====== Copyright © 2-6969, Big PooPoo Corporation, All BumHoles reserved. =======
+//
+// Purpose: Hospitality game definition file (.fgd) 
+//
+//=============================================================================
+
+@include "base.fgd"
+@include "halflife2.fgd"
+
+//-------------------------------------------------------------------------
+//
+// Weapons
+//
+//-------------------------------------------------------------------------
+
+@PointClass base(Weapon) studio("models/weapons/w_deagle.mdl") = weapon_deagle : "Deagle" []

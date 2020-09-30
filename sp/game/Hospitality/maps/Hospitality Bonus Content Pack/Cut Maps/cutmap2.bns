@@ -1,0 +1,8 @@
+"Cut Map 01. Part 2"
+{
+	"map"	"d1_hospital_01a"
+	"image"	"unusedmap"
+	"comment"	"This map didn't get to the Detailing stage. Meant to load after the first cut map."
+	"lock"	"0"
+}
+
