@@ -1,1 +1,1 @@
-devtools\bin\vpc.exe /episodic +game /mksln hospitality.sln
+devtools\bin\vpc.exe /hospitality +game /mksln hospitality.sln
