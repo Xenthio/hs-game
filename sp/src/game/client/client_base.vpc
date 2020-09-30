@@ -25,10 +25,10 @@ $Configuration	"Debug"
 {
 	$General
 	{
-		$OutputDirectory			".\Debug_$GAMENAME"			[$WIN32]
+		$OutputDirectory			".\..\..\..\game\Hospitality\bin"			[$WIN32]
 		$IntermediateDirectory		".\..\..\..\game\Hospitality\bin"			[$WIN32]
 
-		$OutputDirectory			".\Debug_$GAMENAME_360"		[$X360]
+		$OutputDirectory			".\..\..\..\game\Hospitality\bin"		[$X360]
 		$IntermediateDirectory		".\..\..\..\game\Hospitality\bin"		[$X360]
 	}
 }
@@ -37,10 +37,10 @@ $Configuration	"Release"
 {
 	$General
 	{
-		$OutputDirectory			".\Release_$GAMENAME"		[$WIN32]
+		$OutputDirectory			".\..\..\..\game\Hospitality\bin"		[$WIN32]
 		$IntermediateDirectory		".\..\..\..\game\Hospitality\bin"		[$WIN32]
 
-		$OutputDirectory			".\Release_$GAMENAME_360"	[$X360]
+		$OutputDirectory			".\..\..\..\game\Hospitality\bin"	[$X360]
 		$IntermediateDirectory		".\..\..\..\game\Hospitality\bin"	[$X360]
 	}
 }
