@@ -5,9 +5,9 @@ Download Git:
 - Mac: type ```git --version``` in terminal, if git isn't installed already, it will prompt you to install the xcode command line tools.
 - Linux: If it isn't installed already, install git using your package manager.
 
-## Creating your own repository
+## Forking the main repository
 
-Fork map base by clicking [here](https://github.com/mapbase-source/source-sdk-2013/fork).
+Fork the mapbase repository by clicking [here](https://github.com/mapbase-source/source-sdk-2013/fork).
 Keep the url of the repo handy
 
 Open up the terminal or command prompt of your choice.
