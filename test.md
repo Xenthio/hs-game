@@ -12,11 +12,14 @@ Open up the terminal or command prompt of your choice.
 Type ```git clone <REPO-LINK>``` 
 ###### Clones the repo to your computer. (EXAMPLE: ```git clone https://github.com/xenthio/source-sdk-2013```)
 
+This will clone to a folder in your command lines current directory, you can move this folder after.
+
 ## Committing and Pushing Changes
 
 For the people who have never used git, i'll quickly go over this.
 Whenever you make a change (or whenever you feel like it) you should commit and push the change (upload it to the repo).
-Do this by typing:
+
+Do this by changing to your repo's directory and typing:
 
 ```git add path/to/file.txt```
 ###### Adds the file to the commit, do ```git add .``` to add all changed files.
@@ -31,7 +34,7 @@ Do this by typing:
 When ever an update is pushed for mapbase you can merge the changes into your repo.
 First push whatever changes you've made to your repo since your last push before doing this.
 
-Head over to the terminal and type:
+Head over to the terminal, change to your repo's directory and type:
 
 ```git fetch upstream```
 ###### Gets all commits from the mapbase master branch into a temporary branch.
