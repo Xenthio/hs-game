@@ -10,7 +10,7 @@ Keep the url of the repo handy
 Open up the terminal or command prompt of your choice.
 
 Type ```git clone <REPO-LINK>``` 
-###### (EXAMPLE: ```git clone https://github.com/xenthio/source-sdk-2013```)
+###### clones the repo to your computer (EXAMPLE: ```git clone https://github.com/xenthio/source-sdk-2013```)
 
 ## Committing and Pushing Changes
 
