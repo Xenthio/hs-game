@@ -10,7 +10,7 @@ Keep the url of the repo handy
 Open up the terminal or command prompt of your choice.
 
 Type ```git clone <REPO-LINK>``` 
-###### clones the repo to your computer (EXAMPLE: ```git clone https://github.com/xenthio/source-sdk-2013```)
+###### Clones the repo to your computer. (EXAMPLE: ```git clone https://github.com/xenthio/source-sdk-2013```)
 
 ## Committing and Pushing Changes
 
@@ -19,13 +19,13 @@ Whenever you make a change (or whenever you feel like it) you should commit and 
 Do this by typing:
 
 ```git add path/to/file.txt```
-###### adds the file to the commit, do ```git add .``` to add all changed files
+###### Adds the file to the commit, do ```git add .``` to add all changed files.
 
 ```git commit -m "Change Message"```
-###### commits the files, the message can be anything, e.g "Cleaned up code" or "Squashed some bugs", makes it easy to tell which commit changed what.
+###### Commits the files, the message can be anything, e.g "Cleaned up code" or "Squashed some bugs", makes it easy to tell which commit changed what.
 
 ```git push```
-###### upload all previous commits to the repo.
+###### Upload all commits you just made to the repo.
 
 ## Merging the main Repo with yours
 When ever an update is pushed for mapbase you can merge the changes into your repo.
@@ -34,10 +34,10 @@ First push whatever changes you've made to your repo since your last push before
 Head over to the terminal and type:
 
 ```git fetch upstream```
-###### gets all commits from the mapbase master branch into a temporary branch
+###### Gets all commits from the mapbase master branch into a temporary branch.
 
 ```git checkout master```
-###### go's back to the normal master branch of your repo
+###### Go's back to the normal master branch of your repo.
 
 ```git merge upstream/master```
-###### merges the master branch with the mapbase master branch
+###### Merges the master branch with the mapbase master branch.
