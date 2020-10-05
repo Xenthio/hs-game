@@ -15,8 +15,8 @@ Type ```git clone <REPO-LINK>```
 ## Committing and Pushing Changes
 
 For the people who have never used git, i'll quickly go over this.
-whenever you make a change (or whenever you feel like it) you should commit and push the change (upload it to the repo)
-Do this by typing
+Whenever you make a change (or whenever you feel like it) you should commit and push the change (upload it to the repo).
+Do this by typing:
 
 ```git add path/to/file.txt```
 ###### adds the file to the commit, do ```git add .``` to add all changed files
@@ -28,10 +28,10 @@ Do this by typing
 ###### upload all previous commits to the repo.
 
 ## Merging the main Repo with yours
-When ever an update is pushed for mapbase you can merge the changes into your repo
+When ever an update is pushed for mapbase you can merge the changes into your repo.
 First push whatever changes you've made to your repo since your last push before doing this.
 
-head over to the terminal and type
+Head over to the terminal and type:
 
 ```git fetch upstream```
 ###### gets all commits from the mapbase master branch into a temporary branch
