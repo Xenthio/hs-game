@@ -2,8 +2,8 @@
 
 Download Git:
 - Windows: Download and install [Git for Windows](https://git-scm.com/downloads).
-- Mac: type ```git --version``` in terminal, if git isn't installed already, it will prompt you to install the xcode command line tools.
-- Linux: If it isn't installed already, install git using your package manager.
+- Mac: type ```git``` in terminal, if git isn't installed already, it will prompt you to install it. Git can also be installed with [Homebrew](https://brew.sh).
+- Linux: If it isn't installed already, install git using your distro's [Package Manager](https://www.debian.org/doc/manuals/aptitude/pr01s02.en.html).
 
 ## Forking the main repository
 
