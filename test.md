@@ -1,6 +1,9 @@
 # Setting up Git
 
-You can download git for windows [here](https://git-scm.com/downloads).
+Download Git:
+- Windows: Download and install [Git for Windows](https://git-scm.com/downloads).
+- Mac: type ```git --version``` in terminal, if git isn't installed already, it will prompt you to install the xcode command line tools.
+- Linux: If it isn't installed already, install git using your package manager.
 
 ## Creating your own repository
 
