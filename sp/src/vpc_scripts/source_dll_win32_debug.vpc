@@ -23,7 +23,7 @@ $Configuration "Debug"
 	$General	
 	{
 		// General
-		$OutputDirectory					".\..\..\..\game\Hospitality\bin"
+		$OutputDirectory				".\Debug$_SUBDIRSUFFIX"
 		$IntermediateDirectory				".\Debug$_SUBDIRSUFFIX"
 
 		$ExtensionsToDeleteOnClean
